@@ -42,8 +42,8 @@ und Tipps kommt. Der mit vielfältigen Eindrücken ausgefüllte Tag endet
 in einem italienischen Restaurant. Bei Pasta und Prosecco vermischt sich
 Bibliothekarisches mit Berlintouristischem.
 
-Die „tatsächliche Bibliotheksarbeit“, die bis hierhin beschrieben wurde,
-heißt „BibHOP TU9-Austauschprogramm“. Seit 2006 gibt es den
+Die "tatsächliche Bibliotheksarbeit", die bis hierhin beschrieben wurde,
+heißt "BibHOP TU9-Austauschprogramm". Seit 2006 gibt es den
 Zusammenschluss der TU9[^1]: Neun technische Universitäten haben eine
 gemeinsame Geschäftsstelle eingerichtet, um ihre Presse- und
 Öffentlichkeitsarbeit zu koordinieren, um Kontakte zu Politik,
