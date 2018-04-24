@@ -9,7 +9,7 @@ Kontext von Kulturerbeinstitutionen und Informatik diskutiert werden.
 Der Weg einer klassischen Tagung sollte bewusst nicht beschritten
 werden, um die unterschiedlichen Disziplinen zusammenzubringen. Es
 musste ein kommunikatives und freies Format gefunden werden – die Wahl
-fiel auf das offene Tagungsformats "Barcamp".
+fiel auf das offene Tagungsformat "Barcamp".
 
 Während 2017 bereits das zehnte BibCamp – ein Barcamp mit
 bibliothekarischen Schwerpunkten – stattfand,[^1] ist die Ausrichtung
