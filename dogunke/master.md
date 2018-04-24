@@ -272,7 +272,7 @@ Gründung kleinerer Arbeitsgruppen, die nach dem Barcamp weiterhin an den
 Themen arbeiten und auch publizieren wollen, bis zur Konzeption der
 Weiterverfolgung eines Sessionthemas in einem eigenen Workshop. Die
 Ergebnisse des Barcamps waren freilich sehr heterogen, so dass eine
-gemeinsame Ergebnisdokumentation nicht möglich ist. Viel mehr sollen die
+gemeinsame Ergebnisdokumentation nicht möglich ist. Vielmehr sollen die
 geschaffenen Impulse von den Teilnehmer/innen aufgegriffen werden und,
 wo es sich anbietet, weitergeführt werden. Viele Teilnehmer/innen sahen
 den großen Gewinn in der individuellen Horizonterweiterung und der
