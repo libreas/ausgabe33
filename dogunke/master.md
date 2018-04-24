@@ -167,7 +167,7 @@ Gespräche waren nicht nur ein guter Einstieg für das Barcamp, sondern
 brachten Ideen und Vorschläge zu Sessions hervor, die am nächsten Tag
 aufgegriffen wurden. Die Impulse der Keynote zeigten die Potentiale und
 die sich daraus entwickelnde Diskussionsdynamik auf, welche durch die
-oben beschriebene Divergenz von Digtialen und historischem Bestand
+oben beschriebene Divergenz von Digtialem und historischem Bestand
 hervorgebracht wurde.
 
 ![Tweet von @autvisum\_autnon vom 27. November 2017.
