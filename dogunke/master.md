@@ -152,7 +152,7 @@ Kulturbesitz) gehaltene Keynote mit dem Titel "Der Zauberlehrling war
 nicht als Anleitung gemeint. Artificial Intelligence, Deep- und
 Machine-Learning in den Kultur- und Wissenschaftseinrichtungen" gewährte
 einen Blick in die Zukunft von wissenschaftlichen Bibliotheken, der
-angesichts der Potenziale von künstlicher Intelligenz sowohl begeisternd
+angesichts der Potentiale von künstlicher Intelligenz sowohl begeisternd
 wie beängstigend war.[^14] Der Kontrast zwischen dem digitalen Thema des
 Vortrages, verbunden mit dem Einsatz moderner Medien zu der im
 Hintergrund angestrahlten historischen Büchersammlung des 17.
