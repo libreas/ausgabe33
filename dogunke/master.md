@@ -2,7 +2,7 @@
 
 Der Forschungsverbund Marbach Weimar Wolfenbüttel (MWW) empfing diese
 und 49 andere interessierte Expert/innen ihres Faches vom 27. bis 28.
-November 2017 zu einem ersten Digital-Humanities-Barcamp an die Herzog
+November 2017 zu einem ersten Digital-Humanities-Barcamp an der Herzog
 August Bibliothek in Wolfenbüttel. Die Ziele waren hoch gesteckt: Es
 sollten aktuelle Fragestellungen und Probleme der Digital Humanities im
 Kontext von Kulturerbeinstitutionen und Informatik diskutiert werden.
