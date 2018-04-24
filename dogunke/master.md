@@ -342,7 +342,7 @@ Problemlösungen zu suchen.
 [^1]: Veranstaltungswebsite:
     [*https://bibcamp.wordpress.com/*](https://bibcamp.wordpress.com/).
 
-[^2]: Vergleiche
+[^2]: Vgl.
     [*https://www.histocamp.de/*](https://www.histocamp.de/).
 
 [^3]: Hilfreiche weitere Faktoren bietet der von L. Azzimonti, Marzia A.
