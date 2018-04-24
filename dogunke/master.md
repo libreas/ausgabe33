@@ -157,7 +157,7 @@ wie beängstigend war.[^14] Der Kontrast zwischen dem digitalen Thema des
 Vortrages, verbunden mit dem Einsatz moderner Medien zu der im
 Hintergrund angestrahlten historischen Büchersammlung des 17.
 Jahrhunderts, schuf eine ideale Kulisse für die Frage nach der
-zukünftigen Rolle von Bibliotheken in einer digitalenbeziehungsweise
+zukünftigen Rolle von Bibliotheken in einer digitalen beziehungsweise
 sich digitalisierenden Welt. Die sich an den Vortrag anschließenden
 Diskussionen zeigten bereits, dass dieses Thema sowohl
 Geisteswissenschaftler/innen als auch Bibliothekare/innen und
