@@ -810,7 +810,7 @@ führt, der hat bestenfalls ein Drittel des Gesamtmarktes im Blick.
     Open Access und die Konsequenzen für Bibliotheken und Wissenschaft:
     Ausgewählte Aspekte. B.I.T. online 21(1), 9–17. Online verfügbar
     unter
-    [*http://www.b-i-t-online.de/heft/2018-01-fachbeitrag-ball.pdf*](http://www.b-i-t-online.de/heft/2018-01-fachbeitrag-ball.pdf).
+[http://www.b-i-t-online.de/heft/2018-01-fachbeitrag-ball.pdf](http://www.b-i-t-online.de/heft/2018-01-fachbeitrag-ball.pdf).
     Alle nicht anderweitig belegten Zitate im vorliegenden Artikel
     stammen aus dieser Publikation. In leicht gekürzter Fassung wurde
     der Beitrag außerdem in Forschung&Lehre 3/2018 publiziert. Alle
@@ -820,25 +820,25 @@ führt, der hat bestenfalls ein Drittel des Gesamtmarktes im Blick.
     vorherigen LIBREAS-Ausgabe: Bernhard Mittermaier (2017): Aus dem
     DEAL-Maschinenraum — ein Gespräch mit Bernhard Mittermaier".
     LIBREAS. Library Ideas, 32 (2017).
-    [*http://libreas.eu/ausgabe32/mittermaier/*](http://libreas.eu/ausgabe32/mittermaier/)
+    [http://libreas.eu/ausgabe32/mittermaier/](http://libreas.eu/ausgabe32/mittermaier/)
 
 [^3]: Allianz der deutschen Wissenschaftsorganisationen (2009): Open
     Access und Urheberrecht: kein Eingriff in die Publikationsfreiheit:
     Gemeinsame Erklärung der Wissenschaftsorganisationen.
-    [*http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:2875912*](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:2875912)
+[http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:2875912](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:2875912)
 
 [^4]: Recherchiert auf ETH Zürich Research Collection
-    [*https://www.research-collection.ethz.ch*](https://www.research-collection.ethz.ch)
+    [https://www.research-collection.ethz.ch](https://www.research-collection.ethz.ch)
     und Publikationsportal JuSER des Forschungszentrums Jülich
-    [*https://juser.fz-juelich.de*](https://juser.fz-juelich.de) am 5.
+    [https://juser.fz-juelich.de](https://juser.fz-juelich.de) am 5.
     März 2018.
 
 [^5]: Laut der STM Association verlangen etwa drei viertel der
     Mitgliedsverlage zumindest eine Benachrichtigung über die erneute
     Veröffentlichung.
-    [*http://www.stm-assoc.org/copyright-legal-affairs/permissions/permissions-guidelines/*](http://www.stm-assoc.org/copyright-legal-affairs/permissions/permissions-guidelines/)
+    [http://www.stm-assoc.org/copyright-legal-affairs/permissions/permissions-guidelines/](http://www.stm-assoc.org/copyright-legal-affairs/permissions/permissions-guidelines/)
 
-[^6]: Vgl. [*http://fz-juelich.de/zb/vzj*](http://fz-juelich.de/zb/vzj)
+[^6]: Vgl. [http://fz-juelich.de/zb/vzj](http://fz-juelich.de/zb/vzj)
 
 [^7]: \[Anm. d. Red.: Das Copyright Clearance Center (CCC) ist ein in den USA ansässiges
     Unternehmen, welches mit zahlreichen Verlagen kooperiert und
@@ -847,31 +847,31 @@ führt, der hat bestenfalls ein Drittel des Gesamtmarktes im Blick.
     oder Unterstützung für die automatisierte Einräumung von
     Nutzungsrechten und Abrechnung auf Einzelfallbasis. Für mehr
     Informationen s.
-    [*http://www.copyright.com/*](http://www.copyright.com/).\]
+    [http://www.copyright.com/](http://www.copyright.com/).\]
 
 [^8]: Schimmer, Ralf; Geschuhn, Kai Karin & Vogler, Andreas (2015):
     Disrupting the subscription journals' business model for the
     necessary large-scale transformation to open access.
-    [*https://doi.org/10.17617/1.3*](https://doi.org/10.17617/1.3)
+    [https://doi.org/10.17617/1.3](https://doi.org/10.17617/1.3)
 
 [^9]: Osgyan, Verena (2015):
     Eklatante Unterfinanzierung der Erlanger und Nürnberger
     Hochschulbibliotheken muss ein Ende haben. Pressemitteilung, 18.
     November 2018. Online verfügbar unter
-    [*http://blog.osgyan.de/eklatante-unterfinanzierung-der-erlanger-und-nuernberger-hochschulbibliotheken-muss-ein-ende-haben/*](http://blog.osgyan.de/eklatante-unterfinanzierung-der-erlanger-und-nuernberger-hochschulbibliotheken-muss-ein-ende-haben/)
+[http://blog.osgyan.de/eklatante-unterfinanzierung-der-erlanger-und-nuernberger-hochschulbibliotheken-muss-ein-ende-haben/](http://blog.osgyan.de/eklatante-unterfinanzierung-der-erlanger-und-nuernberger-hochschulbibliotheken-muss-ein-ende-haben/)
 
-[^10]: [*https://www.elsevier.com/about/open-science/open-access/agreements/VSNU-NL*](https://www.elsevier.com/about/open-science/open-access/agreements/VSNU-NL)
+[^10]: [https://www.elsevier.com/about/open-science/open-access/agreements/VSNU-NL](https://www.elsevier.com/about/open-science/open-access/agreements/VSNU-NL)
 
-[^11]: [*https://www.vsnu.nl/en\_GB/public-access-request*](https://www.vsnu.nl/en_GB/public-access-request)
+[^11]: [https://www.vsnu.nl/en\_GB/public-access-request](https://www.vsnu.nl/en_GB/public-access-request)
 
 [^12]: Becking, Koen (2018): "Ook een 'no deal' is mogelijk". Online
     verfügbar unter
-    [*https://www.scienceguide.nl/2018/01/ook-no-deal-is-mogelijk/*](https://www.scienceguide.nl/2018/01/ook-no-deal-is-mogelijk/)
+    [https://www.scienceguide.nl/2018/01/ook-no-deal-is-mogelijk/](https://www.scienceguide.nl/2018/01/ook-no-deal-is-mogelijk/)
 
 [^13]: Ball, Rafael (1999): Die Diversifizierung von
     Bibliotheksdienstleistungen als Überlebensstrategie, BIT online
     1/1999. Online verfügbar unter
-    [*http://www.b-i-t-online.de/archiv/1999-01/fachbeitraege/beitrag01/01.htm*](http://www.b-i-t-online.de/archiv/1999-01/fachbeitraege/beitrag01/01.htm)
+    [http://www.b-i-t-online.de/archiv/1999-01/fachbeitraege/beitrag01/01.htm](http://www.b-i-t-online.de/archiv/1999-01/fachbeitraege/beitrag01/01.htm)
 
 [^14]: Rothe, Ulrike; Johannsen, Jochen & Schäffler, Hildegard (2014):
     Strategien des Bestandsaufbaus in der hybriden Bibliothek. In:
@@ -879,7 +879,7 @@ führt, der hat bestenfalls ein Drittel des Gesamtmarktes im Blick.
     Praxishandbuch Bibliotheksmanagement. Berlin/Boston: Walter de
     Gruyter
 
-[^15]: [*https://ezb.uni-regensburg.de*](https://ezb.uni-regensburg.de)
+[^15]: [https://ezb.uni-regensburg.de](https://ezb.uni-regensburg.de)
 
 [^16]: Ewert, Gisela: Lehrbuch der Bibliotheksverwaltung / auf der
     Grundlage des Werkes von Wilhelm Krabbe und Wilhelm Martin Luther völlig neu bearb. von Gisela Ewert und Walther Umstätter. Stuttgart: Hiersemann, 1997, S. 10
@@ -890,109 +890,109 @@ führt, der hat bestenfalls ein Drittel des Gesamtmarktes im Blick.
 [^18]: Schimmer, Ralf (2012). Open Access und die Re-Kontextualisierung
     des Bibliothekserwerbungsetats. Bibliothek, Forschung und Praxis
     36(3), 293–299
-    [*https://doi.org/10.1515/bfp-2012-0038*](https://doi.org/10.1515/bfp-2012-0038)
+    [https://doi.org/10.1515/bfp-2012-0038](https://doi.org/10.1515/bfp-2012-0038)
 
 [^19]: Geschuhn, Kai Karin & Pieper, Dirk (2016). Wandel aktiv
     gestalten: Das Projekt INTACT-Transparente Infrastruktur für
     Open-Access-Publikationsgebühren. In *Schriften des
     Forschungszentrums Jülich, Reihe Bibliothek / Library*, 22, Seiten
     47–69. WissKom 2016, Jülich.
-    [*http://hdl.handle.net/2128/11559*](http://hdl.handle.net/2128/11559).
+    [http://hdl.handle.net/2128/11559](http://hdl.handle.net/2128/11559).
     Hier Seite 66.
 
 [^20]: Laut dem Directory of Open Access Journals (Stand 7. März 2018)
     erheben 3.186 der Zeitschriften APCs und 7.959 keine. Bei 102 der
     Zeitschriften gibt es keine Informationen dazu.
-    [*https://doaj.org*](https://doaj.org)
+    [https://doaj.org](https://doaj.org)
 
 [^21]: Larivière, Vincent; Haustein, Stefanie & Mongeon Philippe (2015),
     The Oligopoly of Academic Publishers in the Digital Era. PLoS ONE
     10(6): e0127502.
-    [*https://doi.org/10.1371/journal.pone.0127502*](https://doi.org/10.1371/journal.pone.0127502)
+    [https://doi.org/10.1371/journal.pone.0127502](https://doi.org/10.1371/journal.pone.0127502)
 
-[^22]: [*https://www.goportis.de/fileadmin/downloads/lizenzen/TIB/Konsortien/ECS\_Plus\_Datenblatt\_2018.pdf*](https://www.goportis.de/fileadmin/downloads/lizenzen/TIB/Konsortien/ECS_Plus_Datenblatt_2018.pdf)
+[^22]: [https://www.goportis.de/fileadmin/downloads/lizenzen/TIB/Konsortien/ECS\_Plus\_Datenblatt\_2018.pdf](https://www.goportis.de/fileadmin/downloads/lizenzen/TIB/Konsortien/ECS_Plus_Datenblatt_2018.pdf)
 
-[^23]: [*http://ecsdl.org/site/misc/oa.xhtml*](http://ecsdl.org/site/misc/oa.xhtml)
+[^23]: [http://ecsdl.org/site/misc/oa.xhtml](http://ecsdl.org/site/misc/oa.xhtml)
 
 [^24]: Münch, Vera (2018): Zukunft Bibliothek – weiter auf neuen Wegen.
     B.I.T. online 21(1), 58–63. Online verfügbar unter
-    [*http://www.b-i-t-online.de/heft/2018-01-reportage-muench.pdf*](http://www.b-i-t-online.de/heft/2018-01-reportage-muench.pdf)
+    [http://www.b-i-t-online.de/heft/2018-01-reportage-muench.pdf](http://www.b-i-t-online.de/heft/2018-01-reportage-muench.pdf)
 
 [^25]: Öffentlich einsehbar ist zum Beispiel der Vertrag der Niederlande
     mit Wiley: "The Licensee and its Authorized Users may create links
     to Wiley Online Library from their Online Public Access Catalog
     (OPAC) records, libray catalogs, link resolvers, locally hosted
     databases or library web pages \[…\]"
-    [*https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/Open%20access/Wiley.pdf*](https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/Open%20access/Wiley.pdf)
+    [https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/Open%20access/Wiley.pdf](https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/Open%20access/Wiley.pdf)
 
-[^26]: [*http://www.gesetze-im-internet.de/pflav/index.html*](http://www.gesetze-im-internet.de/pflav/index.html)
+[^26]: [http://www.gesetze-im-internet.de/pflav/index.html](http://www.gesetze-im-internet.de/pflav/index.html)
 
-[^27]: [*https://d-nb.info/1051940788/34*](https://d-nb.info/1051940788/34)
+[^27]: [https://d-nb.info/1051940788/34](https://d-nb.info/1051940788/34)
 
-[^28]: [*https://www.nb.admin.ch/snl/de/home/nb-professionell/e-helvetica/faq/faq-zu-den-arbeitsablaeufen.html*](https://www.nb.admin.ch/snl/de/home/nb-professionell/e-helvetica/faq/faq-zu-den-arbeitsablaeufen.html)
+[^28]: [https://www.nb.admin.ch/snl/de/home/nb-professionell/e-helvetica/faq/faq-zu-den-arbeitsablaeufen.html](https://www.nb.admin.ch/snl/de/home/nb-professionell/e-helvetica/faq/faq-zu-den-arbeitsablaeufen.html)
 
-[^29]: [*http://www.bl.uk/aboutus/legaldeposit/websites/elecpubs/*](http://www.bl.uk/aboutus/legaldeposit/websites/elecpubs/)
+[^29]: [http://www.bl.uk/aboutus/legaldeposit/websites/elecpubs/](http://www.bl.uk/aboutus/legaldeposit/websites/elecpubs/)
 
-[^30]: [*https://pkp.sfu.ca/2016/06/01/launch-of-private-lockss-network-for-ojs-journals/*](https://pkp.sfu.ca/2016/06/01/launch-of-private-lockss-network-for-ojs-journals/)
+[^30]: [https://pkp.sfu.ca/2016/06/01/launch-of-private-lockss-network-for-ojs-journals/](https://pkp.sfu.ca/2016/06/01/launch-of-private-lockss-network-for-ojs-journals/)
 
-[^31]: [*https://doaj.org/*](https://doaj.org/)
+[^31]: [https://doaj.org/](https://doaj.org/)
 
-[^32]: [*https://doaj.org/faq\#seal*](https://doaj.org/faq#seal)
+[^32]: [https://doaj.org/faq\#seal](https://doaj.org/faq#seal)
 
-[^33]: [*https://www.lockss.org/*](https://www.lockss.org/)
+[^33]: [https://www.lockss.org/](https://www.lockss.org/)
 
-[^34]: [*https://www.portico.org/*](https://www.portico.org/)
+[^34]: [https://www.portico.org/](https://www.portico.org/)
 
-[^35]: [*https://www.nathosting.de/display/ND/Hintergrund*](https://www.nathosting.de/display/ND/Hintergrund)
+[^35]: [https://www.nathosting.de/display/ND/Hintergrund](https://www.nathosting.de/display/ND/Hintergrund)
 
 [^36]: Kaden, Ben (2017): Publikationsfreiheit.de, Open Access und
     Geisteswissenschaften. LIBREAS.Library Ideas, 31. Juli 2017. Online
     verfügbar unter
-    [*https://libreas.wordpress.com/2017/07/31/open-access\_publikationsfreiheit/*](https://libreas.wordpress.com/2017/07/31/open-access_publikationsfreiheit/)
+    [https://libreas.wordpress.com/2017/07/31/open-access\_publikationsfreiheit/](https://libreas.wordpress.com/2017/07/31/open-access_publikationsfreiheit/)
 
-[^37]: [*http://oad.simmons.edu/oadwiki/OA\_book\_business\_models*](http://oad.simmons.edu/oadwiki/OA_book_business_models)
+[^37]: [http://oad.simmons.edu/oadwiki/OA\_book\_business\_models](http://oad.simmons.edu/oadwiki/OA_book_business_models)
 
 [^38]: Crossick, Geoffrey (2016): Monographs and open access. Insights
     29(1), 14–19. Online verfügbar unter
-    [*https://insights.uksg.org/articles/10.1629/uksg.280/*](https://insights.uksg.org/articles/10.1629/uksg.280/)
+    [https://insights.uksg.org/articles/10.1629/uksg.280/](https://insights.uksg.org/articles/10.1629/uksg.280/)
 
 [^39]: Kohle, Hubertus (2013): Für Open Access in den
     Geisteswissenschaften. perlentaucher.de. Das Kulturmagazin, 19. März
     2013. Online verfügbar unter
-    [*https://www.perlentaucher.de/essay/fuer-open-access-in-den-geisteswissenschaften.html*](https://www.perlentaucher.de/essay/fuer-open-access-in-den-geisteswissenschaften.html)
+    [https://www.perlentaucher.de/essay/fuer-open-access-in-den-geisteswissenschaften.html](https://www.perlentaucher.de/essay/fuer-open-access-in-den-geisteswissenschaften.html)
 
-[^40]: [*https://open-access.net/informationen-fuer-verschiedene-zielgruppen/verlage/*](https://open-access.net/informationen-fuer-verschiedene-zielgruppen/verlage/)
+[^40]: [https://open-access.net/informationen-fuer-verschiedene-zielgruppen/verlage/](https://open-access.net/informationen-fuer-verschiedene-zielgruppen/verlage/)
 
-[^41]: [*https://www.doabooks.org/doab?func=publisher*](https://www.doabooks.org/doab?func=publisher)
+[^41]: [https://www.doabooks.org/doab?func=publisher](https://www.doabooks.org/doab?func=publisher)
 
 [^42]: Ball, Rafael (2016): Bibliotheken: Weg damit! NZZ am Sonntag, 7.
     Februar 2016. Online verfügbar unter
-    [*http://www.nzz.ch/nzzas/nzz-am-sonntag/bibliotheken-weg-mit-den-buechern-interview-rafael-ball-eth-ld.5093*](http://www.nzz.ch/nzzas/nzz-am-sonntag/bibliotheken-weg-mit-den-buechern-interview-rafael-ball-eth-ld.5093)
+    [http://www.nzz.ch/nzzas/nzz-am-sonntag/bibliotheken-weg-mit-den-buechern-interview-rafael-ball-eth-ld.5093](http://www.nzz.ch/nzzas/nzz-am-sonntag/bibliotheken-weg-mit-den-buechern-interview-rafael-ball-eth-ld.5093)
 
-[^43]: [*https://www.openlibhums.org/*](https://www.openlibhums.org/)
+[^43]: [https://www.openlibhums.org/](https://www.openlibhums.org/)
 
-[^44]: [*http://www.oapen.org/home*](http://www.oapen.org/home)
+[^44]: [http://www.oapen.org/home](http://www.oapen.org/home)
 
-[^45]: [*http://www.knowledgeunlatched.org/*](http://www.knowledgeunlatched.org/)
+[^45]: [http://www.knowledgeunlatched.org/](http://www.knowledgeunlatched.org/)
 
-[^46]: [*http://www.transcript-verlag.de/transcript-in-open-access-netzwerken*](http://www.transcript-verlag.de/transcript-in-open-access-netzwerken)
+[^46]: [http://www.transcript-verlag.de/transcript-in-open-access-netzwerken](http://www.transcript-verlag.de/transcript-in-open-access-netzwerken)
 
-[^47]: [*http://langsci-press.org/*](http://langsci-press.org/)
+[^47]: [http://langsci-press.org/](http://langsci-press.org/)
 
-[^48]: [*https://www.degruyter.com/dg/page/open-access-books*](https://www.degruyter.com/dg/page/open-access-books)
+[^48]: [https://www.degruyter.com/dg/page/open-access-books](https://www.degruyter.com/dg/page/open-access-books)
 
 [^49]: Emery, Christina; Lucraft, Mithu, Morka, Agata & Pyne, Ros
     (2017): The OA effect: How does Open Access affect the usage of
     scholarly books? White paper. Online verfügbar unter
-    [*https://resource-cms.springer.com/springer-cms/rest/v1/content/15176744/data/v3*](https://resource-cms.springer.com/springer-cms/rest/v1/content/15176744/data/v3)
+    [https://resource-cms.springer.com/springer-cms/rest/v1/content/15176744/data/v3](https://resource-cms.springer.com/springer-cms/rest/v1/content/15176744/data/v3)
 
-[^50]: [*https://open-access.net/informationen-fuer-verschiedene-faecher/*](https://open-access.net/informationen-fuer-verschiedene-faecher/)
+[^50]: [https://open-access.net/informationen-fuer-verschiedene-faecher/](https://open-access.net/informationen-fuer-verschiedene-faecher/)
 
 [^51]: Holzke, Christoph; Frick, Claudia & Mittermaier, Bernhard (2016):
     DOI-Vergabe für Großgeräte im Journal of Large Scale Research
     Facilities JLSRF.
-    [*http://hdl.handle.net/2128/17600*](http://hdl.handle.net/2128/17600)
+    [http://hdl.handle.net/2128/17600](http://hdl.handle.net/2128/17600)
 
 [^52]: Söllner, Konstanze & Mittermaier, Bernhard (Hrsg.) (2017):
     Praxishandbuch Open Access. Berlin/Boston: Walter De Gruyter.
-    [*https://doi.org/10.1515/9783110494068*](https://doi.org/10.1515/9783110494068)
+    [https://doi.org/10.1515/9783110494068](https://doi.org/10.1515/9783110494068)
