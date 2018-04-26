@@ -340,10 +340,10 @@ neue Ideen oder Konzepte gemeinsam zu besprechen oder sich Rat für
 Problemlösungen zu suchen.
 
 [^1]: Veranstaltungswebsite:
-    [*https://bibcamp.wordpress.com/*](https://bibcamp.wordpress.com/).
+    [https://bibcamp.wordpress.com/](https://bibcamp.wordpress.com/).
 
 [^2]: Vgl.
-    [*https://www.histocamp.de/*](https://www.histocamp.de/).
+    [https://www.histocamp.de/](https://www.histocamp.de/).
 
 [^3]: Hilfreiche weitere Faktoren bietet der von L. Azzimonti, Marzia A.
     Cremona, Andrea Ghiglietti, et al. entwickelte Algorithmus in:
@@ -351,18 +351,18 @@ Problemlösungen zu suchen.
     S. 55.
 
 [^4]: Vgl. das Tagungsprogramm unter:
-    [*http://www.mww-forschung.de/fileadmin/user\_upload/\_imported/fileadmin/user\_upload/MWW/Veranstaltungen/Programm\_Barcamp171102.pdf*](http://www.mww-forschung.de/fileadmin/user_upload/_imported/fileadmin/user_upload/MWW/Veranstaltungen/Programm_Barcamp171102.pdf).
+    [http://www.mww-forschung.de/fileadmin/user\_upload/\_imported/fileadmin/user\_upload/MWW/Veranstaltungen/Programm\_Barcamp171102.pdf](http://www.mww-forschung.de/fileadmin/user_upload/_imported/fileadmin/user_upload/MWW/Veranstaltungen/Programm_Barcamp171102.pdf).
 
-[^5]: Vgl. Moritz Avenarius: Barcamp „Data and Demons: Von Bestands- UND
+[^5]: Vgl. Moritz Avenarius: Barcamp "Data and Demons: Von Bestands- UND
     Forschungsdaten zu Services". Online:
-[*http://www.mww-forschung.de/blog/blogdetail/barcamp-data-and-demons-von-bestands-und-forschungsdaten-zu-services-im-rahmen-des-forschungsverbunds-mww*](http://www.mww-forschung.de/blog/blogdetail/barcamp-data-and-demons-von-bestands-und-forschungsdaten-zu-services-im-rahmen-des-forschungsverbunds-mww)
+[http://www.mww-forschung.de/blog/blogdetail/barcamp-data-and-demons-von-bestands-und-forschungsdaten-zu-services-im-rahmen-des-forschungsverbunds-mww](http://www.mww-forschung.de/blog/blogdetail/barcamp-data-and-demons-von-bestands-und-forschungsdaten-zu-services-im-rahmen-des-forschungsverbunds-mww)
     \[Stand: 8.12.2017\].
 
 [^6]: Über
-    [*https://twitter.com/data\_demons*](https://twitter.com/data_demons)
+    [https://twitter.com/data\_demons](https://twitter.com/data_demons)
     sowie über die Hashtags
-    [*\#mww*](https://twitter.com/hashtag/mww?src=hash)
-    [*\#dhbarcamp*](https://twitter.com/hashtag/dhbarcamp?src=hash) kann
+    [\#mww](https://twitter.com/hashtag/mww?src=hash)
+    [\#dhbarcamp](https://twitter.com/hashtag/dhbarcamp?src=hash) kann
     der Verlauf der Veranstaltung und auch die Reaktion der
     Teilnehmer/innen nachvollzogen werden.
 
@@ -374,18 +374,18 @@ Problemlösungen zu suchen.
     Veranstaltungshinweise auf den Homepages der beteiligten
     Einrichtungen auf das Barcamp aufmerksam wurde.
 
-[^9]: [*http://www.zukunftslotse.de/*](http://www.zukunftslotse.de/).
+[^9]: [http://www.zukunftslotse.de/](http://www.zukunftslotse.de/).
 
-[^10]: [*https://vfr.mww-forschung.de/web/barcamp-data-and-demons*](https://vfr.mww-forschung.de/web/barcamp-data-and-demons).
+[^10]: [https://vfr.mww-forschung.de/web/barcamp-data-and-demons](https://vfr.mww-forschung.de/web/barcamp-data-and-demons).
 
 [^11]: Ungenutzt blieb ein anonymer digitaler "Kummerkasten".
 
 [^12]: Auch im Vorfeld konnten Sessionvorschläge über Twitter adressiert
     werden.
 
-[^13]: Vgl. [*https://www.google.de/maps/@52.1622099,10.5375103,15z?hl=de&authuser=0*](https://www.google.de/maps/@52.1622099,10.5375103,15z?hl=de&authuser=0)
+[^13]: Vgl. [https://www.google.de/maps/@52.1622099,10.5375103,15z?hl=de&authuser=0](https://www.google.de/maps/@52.1622099,10.5375103,15z?hl=de&authuser=0)
 
 [^14]: Eine Videoaufnahme der Keynote ist zu finden unter:
-    [*https://youtu.be/fZslqmgA5tM*](https://youtu.be/fZslqmgA5tM)
+    [https://youtu.be/fZslqmgA5tM](https://youtu.be/fZslqmgA5tM)
     Die Folien können eingesehen werden unter:
-[*https://www.slideshare.net/rstockm/der-zauberlehrling-war-nicht-als-anleitung-gemeint-83960825*](https://www.slideshare.net/rstockm/der-zauberlehrling-war-nicht-als-anleitung-gemeint-83960825)
+[https://www.slideshare.net/rstockm/der-zauberlehrling-war-nicht-als-anleitung-gemeint-83960825](https://www.slideshare.net/rstockm/der-zauberlehrling-war-nicht-als-anleitung-gemeint-83960825)
