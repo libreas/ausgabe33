@@ -104,4 +104,4 @@ ist in allen TU9-Bibliotheken gleichermaßen gut angenommen worden und
 wird deshalb ein zweites Mal durchgeführt. Ende 2018 werden wir beraten,
 ob es eine Fortsetzung geben wird. BibHOP – ein echter Ortstermin!
 
-[^1]: [*http://www.tu9.de/*](http://www.tu9.de/)
+[^1]: [http://www.tu9.de/](http://www.tu9.de/)
