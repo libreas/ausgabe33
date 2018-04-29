@@ -1,0 +1,2 @@
+---
+**Lydia Koglin**, nach geisteswissenschaftlichem Studium und bibliothekswissenschaftlicher Ausbildung an einer Universitätsbibliothek jetzt Leiterin einer Two-and-half-Woman-Bibliothek eines umweltwissenschaftlichen Forschungsinstituts.

@@ -1,0 +1,2 @@
+---
+**Jana Rumler**, Leiterin der Bibliothek im Bereich der bibliothekarischen Dienste. Open-Science-Multiplikatorin, mit Hang zu Informationskompetenzvermittlung und Vernetzung kleinerer wissenschaftlicher Spezialbibliotheken. Interessiert an informationsethischen Fragestellungen.
