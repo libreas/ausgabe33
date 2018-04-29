@@ -1,0 +1,2 @@
+---
+**Viola Voß**, Fachreferentin für die Fächer und die Bibliotheken im Fachbereich 9 (Philologie) der Westfälischen Wilhelms-Universität Münster, interessiert an Embedded Librarianship, Bibliotheksmanagement, Wissensmanagement sowie Open Access und Open Science. Sprachwissenschaftlerin. ORCID: [https://orcid.org/0000-0003-3056-407X](https://orcid.org/0000-0003-3056-407X)
