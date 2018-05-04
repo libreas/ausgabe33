@@ -1,0 +1,3 @@
+---
+**Birgit Christine Bittner** ist im Bereich Erwerbung & Institutsdienst der Universitätsbibliothek der Technischen Universität Wien beschäftigt. 
+Kontakt: birgit.bittner@tuwien.ac.at
