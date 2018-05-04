@@ -1,0 +1,4 @@
+---
+**Karen Bordonaro**, is a liaison librarian at Brock University, Ontario, Canada. She studies internationalization in academic libraries, as well as linguistic uses of libraries by non-Indigenous speakers of English in various settings within and outside the United States and Canada.
+
+**Shelby Angalik**, Inuk from Nunavut, is a current Brock University undergraduate student majoring in English who is considering the profession of librarianship as a possible future career.
