@@ -46,7 +46,7 @@ definitiv Lösungsansätze gefunden werden.
 Zeigen Sie uns Spuren der Bibliotheksnutzung. Gibt es dazu eine Geschichte?
 ===========================================================================
 
-![](img/Ordnerstruktur.jpg)
+![](img/Ordnerstruktur.png)
 
 Mit Sicherheit haben die Karteikarten im Laufe der Zeit ein wenig von
 ihrem ursprünglichen Glanz verloren. Interessanter sind für mich jedoch
