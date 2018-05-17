@@ -191,7 +191,7 @@ oft nicht. Aber der Wert einer solchen Institution lässt sich naturgemäß
 niemals exakt bestimmen. Wie gesagt: Eine Bibliothek verkörpert nicht
 Gewissheit, sondern Möglichkeit.
 
-![](img/image_5.jpg)
+![Autoren](img/image_5.jpg)
 
 Ursprüngliches Ziel meines Ausflugs war, die fünf Fragen des
 LIBREAS-Aufrufes abzuarbeiten. Aber jedes Gespräch steuerte automatisch
@@ -219,7 +219,7 @@ Jahren noch sicher hat, könnte man mit den vorhandenen Mitteln deutlich
 zielgerichteter arbeiten, planen, Angebote für die Nutzer\*innen und die
 Stadtbevölkerung schaffen. Die Menschen der Stadt sind ihre Möglichkeit.
 
-![Autoren](img/image_6.jpg)
+![Kunstbibliothek](img/image_6.jpg)
 
 Ungewöhnlich ist diese Bestandsaufnahme nach dem Ortstermin nun
 keinesfalls. Vermutlich entsprechen die Wünsche ebenso dem, was viele
