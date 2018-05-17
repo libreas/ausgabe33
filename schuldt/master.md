@@ -552,7 +552,7 @@ Microaggressions and Academic Libraries. In: *Library Journal* 27.April
 
 Ryan, Marianne (2016). Besting the Workplace Bully. In: *Reference &
 User Services Quarterly* 55 (2016) 4, 267-269,
-<http://dx.doi.org/10.5860/rusq.55n4.267>
+<https://doi.org/10.5860/rusq.55n4.267>
 
 Wheeler, Ronald (2016). About Microaggressions. In: *Law Library
 Journal* 108 (2016) 2, 321-329
