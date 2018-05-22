@@ -1033,7 +1033,7 @@ Uhr. Rund 50 Buchungsvorgänge und 20 Tickets gab es heute.
 ![Blick in die Bibliothek](img/SAM_1436.JPG)
 
 
-### Vom kindlichen Spracherwerb bis zur Erwerbung von Büchern: Die Bibliothek des Leibniz-Zentrums Allgemeine Sprachwissenschaf
+### Vom kindlichen Spracherwerb bis zur Erwerbung von Büchern: Die Bibliothek des Leibniz-Zentrums Allgemeine Sprachwissenschaft
 
 *Christina Beckmann*
 
