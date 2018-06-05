@@ -4,7 +4,8 @@
 **Christina Beckmann**, Diplom-Bibliothekarin (WB); seit 2011 One-Person Librarian in der Bibliothek des Leibniz-Zentrums Allgemeine Sprachwissenschaft in Berlin-Mitte. Schwerpunkte ihrer Aufgaben sieht sie in der Weiterentwicklung des Serviceangebots für die Wissenschaftler\*innen des Zentrums, die sie auch als Open-Access-Ansprechpartnerin unterstützt.
 
 **Ute Czerwinski** (60) – Diplom-Bibliothekarin (FH) in der Technischen Bibliothek der Bombardier Transportation GmbH Hennigsdorf (und der Vorgängerbetriebe) seit 1983. Studium an der Fachschule für wissenschaftliches Bibliothekswesen Leipzig (jetzt HTWK Leipzig) von 1976-1979, verheiratet, eine erwachsene Tochter.
-Corinna Haas, MA Europäische Ethnologie und Allgemeine und Vergleichende Literaturwissenschaft; M.A. LIS  Library and Information Science. Wissenschaftliche Bibliothekarin am ICI Berlin Institute for Cultural Inquiry seit dessen Gründung 2007. 
+
+**Corinna Haas**, MA Europäische Ethnologie und Allgemeine und Vergleichende Literaturwissenschaft; M.A. LIS  Library and Information Science. Wissenschaftliche Bibliothekarin am ICI Berlin Institute for Cultural Inquiry seit dessen Gründung 2007. 
 
 **Jana Haase**, \*1966, Dipl.-Bibl., MA Slawistik und Ethnologie, seit 2003 zuständig für Bibliothek und Archiv des Berufsausbildungszentrums Lette Verein Berlin
 
